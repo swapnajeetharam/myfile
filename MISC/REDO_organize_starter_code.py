@@ -1,4 +1,5 @@
 import os
+"""
 from pathlib import Path
 
 SUBDIRECTORIES = {
@@ -34,7 +35,11 @@ def organizeDirectory():
             directorypath.mkdir()
         filepath.rename(directorypath.joinpath(filepath))
 
-organizeDirectory()
+organizeDirectory()"""
+
+print(os.getcwd())
+
+
             
         
         

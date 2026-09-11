@@ -6,7 +6,7 @@ for line in inputfile:
         print(line)
 inputfile.close()
 
-
+print("******************")
 #my version using with functionality
 """
 filepath='C:\\Users\\jsapn\\Desktop\\PythonAutomation_swapna\\myfile\\DOCUMENTS\\inputFile.txt'
